@@ -13,4 +13,3 @@ A Retrieval-Augmented Generation (RAG) application that provides instant, accura
 
 Visit the live demo at:
 
-[https://royalenfieldmechanic-fncbfhbhdse4f9dw.canadacentral-01.azurewebsites.net/](https://royalenfieldmechanic-fncbfhbhdse4f9dw.canadacentral-01.azurewebsites.net/)
