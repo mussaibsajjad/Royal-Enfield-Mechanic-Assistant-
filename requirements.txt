@@ -1,0 +1,9 @@
+streamlit
+requests
+python-dotenv
+azure-search-documents>=11.5.0
+openai
+PyPDF2
+langchain
+azure-core
+azure-storage-blob
